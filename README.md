@@ -19,7 +19,7 @@ Penetration Testing: A Hands-on Introduction to Hacking  - **Want to start on ha
 Introdução a programação com Linguagem C - **Livro extremamente bom para começar, não aprofunda em ponteiros.**  
 Construindo Aplicações Web com PHP e MySQL - **O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.**  
 Engenharia Social: Blucher - **O livro dá uma boa introdução a linguagem corporal e engenharia social**  
-Desvendando os segredos da linguagem corporal - **Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;)**
+Desvendando os segredos da linguagem corporal - **Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;)**  
 Desbravando Java e Orientação a Objetos: Um Guia para o Iniciante da Linguagem - **Melhor livro para introdução a OOP/Java.**  
 Guia do mestre programador - Pensando como pirata, evoluindo como jedi  - **Desenvolvimento pessoal voltado para Devs.**  
   
