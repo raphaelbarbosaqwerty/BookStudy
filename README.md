@@ -1,5 +1,5 @@
 # BookStudy
-This repo have the objective to select the best books i have read to learn fast and my favorites! I'll put more here, just to recommend this section. If you have a good one, make a issue!
+This repo have the objectie to select the best books i have read to learn fast and my favorites, i'll make some reviews too about these books here. I'll put more here, just to recommend this section. If you have a good one, make a request!  
 
 **English:**  
 CleanCode - **Best book to understand how you can clean your code!**  
