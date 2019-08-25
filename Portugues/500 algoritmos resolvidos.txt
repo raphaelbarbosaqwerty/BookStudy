@@ -1,0 +1,3 @@
+500 Algoritmos Resolvidos - Anita Lopes, Guto Garcia.
+
+	O livro é recomendado para quem está entrando na área e está perdido em relação ao que são algoritmos e como/para que eles servem. Exercícios mais simples aos mais complexos, ajuda bastante!
