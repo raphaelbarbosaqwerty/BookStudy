@@ -25,5 +25,5 @@ Guia do mestre programador - Pensando como pirata, evoluindo como jedi  - **Dese
 O Programador Apaixonado - Construindo uma carreira notavel em desenvolvimento de software - **Desenvolvimento pessoal e empresárial**  
   
   
-  
+ 
 **Have so many, i'll put here when i have time**
