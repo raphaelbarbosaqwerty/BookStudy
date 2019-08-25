@@ -1,0 +1,3 @@
+Livro Desbravando Java e Orientação a Objetos: Um guia para o iniciante da Linguagem - Rodrigo Turini.
+
+	O livro indicado para quem está um pouco perdido em relação a OOP. Aborta de forma estruturada todos os tópicos e usa o Java para isso, ótimo livro para fortalecer conceitos OOP, livro inteiro não apresentou um erro para comigo em relação aos códigos.

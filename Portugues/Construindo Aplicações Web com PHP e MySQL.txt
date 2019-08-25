@@ -1,0 +1,3 @@
+Livro Construindo Aplicações Web com PHP e MySQL - André Milani.
+
+	O livro conta com uma breve introdução ao PHP e MySQL, com o tempo ficou um pouco desatualizado porém o intuito de construír uma aplicação Web está sensacional demonstrando o pensamento para fazer um ‘CRUD’ recomendo para quem tem interesse na área e quer começar pelo básico de PHP/MySQL. Livro não é complicado de ler, tem uma leitura estruturada.

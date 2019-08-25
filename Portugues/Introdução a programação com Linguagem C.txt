@@ -1,0 +1,3 @@
+Introdução À Programação Com A Linguagem C - Aprenda A Resolver Problemas Com Uma Abordagem Prática - Rodrigo de Barros Paes
+
+	O livro é recomendado para toda criatura que quer iniciar no mundo da programação, pois além de abordar alguns exemplos de lógica como raposa e galinha, ensina a estruturar em C. Certamente um dos melhores para pessoas que querem entender melhor o mundo da programação, não tão aprofundado em relação a ponteiros, leitura rápida.

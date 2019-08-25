@@ -1,0 +1,3 @@
+Guia do mestre programador - Pensando como pirata, evoluindo como jedi.
+
+	O livro é sensacional em relação a evolução do desenvolvedor de software, se está perdido em relação a como chegar a nível "Senior", recomendo fazer uma leitura sobre, comece hoje um jovem padawan, pensando como um pirata até chegar ao nível Mestre Jedi. Aborda o modos operandi do autor para o Dev.
