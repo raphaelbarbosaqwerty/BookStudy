@@ -22,8 +22,9 @@ Engenharia Social: Blucher - **O livro dá uma boa introdução a linguagem corp
 Desvendando os segredos da linguagem corporal - **Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;)**  
 Desbravando Java e Orientação a Objetos: Um Guia para o Iniciante da Linguagem - **Melhor livro para introdução a OOP/Java.**  
 Guia do mestre programador - Pensando como pirata, evoluindo como jedi  - **Desenvolvimento pessoal voltado para Devs.**  
-O Programador Apaixonado - Construindo uma carreira notavel em desenvolvimento de software - **Desenvolvimento pessoal e empresárial**  
-500 Algoritmos Resolvidos - Introdução a programação - **Voltado para quem tem interesse em entender e melhorar seus algoritmos**
+O Programador Apaixonado - Construindo uma carreira notavel em desenvolvimento de software - **Desenvolvimento pessoal e empresárial.**  
+500 Algoritmos Resolvidos - Introdução a programação - **Voltado para quem tem interesse em entender e melhorar seus algoritmos.**  
+Learning 3.0, como profissionais criativos estudam - **Livro voltado para desenvolvimento, novos meios de aprendizado.**
   
   
  
