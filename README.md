@@ -24,7 +24,7 @@ Desbravando Java e Orientação a Objetos: Um Guia para o Iniciante da Linguag
 Guia do mestre programador - Pensando como pirata, evoluindo como jedi  - **Desenvolvimento pessoal voltado para Devs.**  
 O Programador Apaixonado - Construindo uma carreira notavel em desenvolvimento de software - **Desenvolvimento pessoal e empresárial.**  
 500 Algoritmos Resolvidos - Introdução a programação - **Voltado para quem tem interesse em entender e melhorar seus algoritmos.**  
-Learning 3.0, como profissionais criativos estudam - **Livro voltado para desenvolvimento, novos meios de aprendizado.**
+Learning 3.0 - como profissionais criativos aprendem - **Livro voltado para desenvolvimento, novos meios de aprendizado.**
   
   
  
