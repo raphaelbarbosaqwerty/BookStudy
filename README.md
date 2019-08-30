@@ -21,7 +21,7 @@ This repo have the objectie to select the best books i have read to learn fast a
   
   
 **Portuguese:**  
--Introdução a programação com Linguagem C - **Livro extremamente bom para começar, não aprofunda em ponteiros.**  
+- Introdução a programação com Linguagem C - **Livro extremamente bom para começar, não aprofunda em ponteiros.**  
 
 - Construindo Aplicações Web com PHP e MySQL - **O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.**  
 
