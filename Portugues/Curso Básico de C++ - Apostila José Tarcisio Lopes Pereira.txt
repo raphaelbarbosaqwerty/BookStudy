@@ -1,0 +1,3 @@
+Curso básico de C++ por José Tarcisio Lopes Pereira.
+
+A apostila adentra ao básico para melhor compreensão sobre a linguagem e o que podemos fazer com a mesma. Recomendo fortemente para quem quer entender melhor a mesma e também para quem já estudou C vai entender tranquilamente, rápida leitura.
