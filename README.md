@@ -39,6 +39,6 @@ This repo have the objectie to select the best books i have read to learn fast a
 
 - Learning 3.0 - como profissionais criativos aprendem - **Livro voltado para desenvolvimento, novos meios de aprendizado.**
   
-  
+- Curso Básico de C++ - Apostila José Tarcisio Lopes Pereira - **Apostila voltada para quem deseja entender C++ em sua sintâxe, aprofunda em ponteiros**
  
 **Have so many, i'll put here when i have time**
