@@ -38,6 +38,8 @@ This repository have the objective to select the bests books i have read to lear
 
 - Learning 3.0 - como profissionais criativos aprendem - **Livro voltado para desenvolvimento, novos meios de aprendizado.**
   
-- Curso Básico de C++ - Apostila José Tarcisio Lopes Pereira - **Apostila voltada para quem deseja entender C++ em sua sintâxe, aprofunda em ponteiros**
+- Curso Básico de C++ - Apostila José Tarcisio Lopes Pereira - **Apostila voltada para quem deseja entender C++ em sua sintâxe, aprofunda em ponteiros**  
+
+- Aprendendo Python - 2a edicao O'Reilly - **Peguei para entender as mudanças do Python 2.2 para o 3.x incluíndo falhas**  
  
 **Have so many, i'll put here when i have time**
