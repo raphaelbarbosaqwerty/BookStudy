@@ -1,0 +1,3 @@
+O livro Aprendendo Python - 2a edicao O'Reilly
+
+	Apesar do livro estar bastante desatualizado pois já se encontra na 5º versão, peguei o mesmo para entender as mudanças do Python 2.x para o 3.x. Recomendo para quem quer ter uma noção melhor sobre o Python, entra bastante no entendimento do mesmo em relação as funções e como usar.
