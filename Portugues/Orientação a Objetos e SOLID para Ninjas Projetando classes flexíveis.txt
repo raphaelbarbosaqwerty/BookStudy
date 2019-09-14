@@ -1,0 +1,3 @@
+O livro Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis
+
+	Altamente recomendado para quem deseja entender melhor sobre um bom projeto em orientação a objetos, aprensenta SOLID de forma simples e compreensível, incluíndo códigos de exemplos. Código Limpo.
