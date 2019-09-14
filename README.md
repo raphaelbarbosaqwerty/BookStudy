@@ -40,6 +40,7 @@ This repository have the objective to select the bests books i have read to lear
   
 - Curso Básico de C++ - Apostila José Tarcisio Lopes Pereira - **Apostila voltada para quem deseja entender C++ em sua sintâxe, aprofunda em ponteiros**  
 
-- Aprendendo Python - 2a edicao O'Reilly - **Peguei para entender as mudanças do Python 2.2 para o 3.x incluíndo falhas**  
+- Aprendendo Python - 2a edicao O'Reilly - **Peguei para entender as mudanças do Python 2.2 para o 3.x incluíndo falhas** 
+- Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis - **SOLID e apenas SOLID**
  
 **Have so many, i'll put here when i have time**
