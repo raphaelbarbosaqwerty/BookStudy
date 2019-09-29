@@ -17,7 +17,7 @@ This repository have the objective to select the bests books i have read to lear
 
 - Penetration Testing: A Hands-on Introduction to Hacking  - **Want to start on hacking? my favorite book for this.**  
 
-- PentesterLab(09/12/2019 - ??)
+- PentesterLab - **(09/12/2019 - ??)**
   
   
 **Portuguese:**  
