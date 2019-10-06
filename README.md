@@ -42,6 +42,11 @@ This repository have the objective to select the bests books i have read to lear
 **Relationships:**
 - **Desvendando os segredos da linguagem corporal** - Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;).  
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.**  
-
   
+### Next/Próximos
+- Containers com Docker  
+- PHP & Mysql  
+- Test-Driven Development PHP  
+- PHP & Laravel  
+- Design Patterns com PHP 7  
 **Have so many, i'll put here when i have time**
