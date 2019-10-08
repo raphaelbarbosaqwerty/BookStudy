@@ -1,0 +1,3 @@
+Livro Desenvolvimento web com PHP e MySQL - Casa do código.
+
+	O livro da uma ótima introdução a programação PHP e MySQL, na última versão o salto entre os códigos é enorme. Altamente recomendado para quem deseja iniciar e conhecer melhor sobre, aborda orientação a objetos de forma simples.

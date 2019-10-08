@@ -28,6 +28,7 @@ This repository have the objective to select the bests books i have read to lear
 
 **PHP:**
 - **Construindo Aplicações Web com PHP e MySQL** - O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.  
+- **Desenvolvimento web com PHP e MySQL - Casa do código** - O livro é bastante atualizado, aborda conceitos sobre OOP.  
   
 **C/C++:**  
 - **Introdução a programação com Linguagem C** - Livro extremamente bom para começar, não aprofunda em ponteiros.  
@@ -45,7 +46,6 @@ This repository have the objective to select the bests books i have read to lear
   
 ### Next/Próximos
 - Containers com Docker  
-- PHP & Mysql  
 - Test-Driven Development PHP  
 - PHP & Laravel  
 - Design Patterns com PHP 7  
