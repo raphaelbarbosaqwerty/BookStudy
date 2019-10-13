@@ -47,8 +47,8 @@ This repository have the objective to select the bests books i have read to lear
   
 ### Next/Próximos
 - Containers com Docker  
-- Test-Driven Development PHP  
 - PHP & Laravel  
 - Design Patterns com PHP 7  
+- Extreme Programming
   
 **Have so many, i'll put here when i have time**
