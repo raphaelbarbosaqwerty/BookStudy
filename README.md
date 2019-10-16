@@ -25,7 +25,8 @@ This repository have the objective to select the bests books i have read to lear
 - **500 Algoritmos Resolvidos - Introdução a programação** - Voltado para quem tem interesse em entender e melhorar seus algoritmos.  
 - **Learning 3.0** - como profissionais criativos aprendem - Livro voltado para desenvolvimento, novos meios de aprendizado.  
 - **Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis** - SOLID e apenas SOLID.  
-
+- **Fragmentos de um programador** - Possibilidade de bons insights.  
+  
 **PHP:**
 - **Construindo Aplicações Web com PHP e MySQL** - O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.  
 - **Desenvolvimento web com PHP e MySQL - Casa do código** - O livro é bastante atualizado, aborda conceitos sobre OOP.  

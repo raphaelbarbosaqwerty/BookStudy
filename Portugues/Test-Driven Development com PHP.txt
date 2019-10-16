@@ -1,0 +1,3 @@
+O livro Test-Driven Development com PHP
+
+	O livro é bem interessante para quem deseja compreender TDD porém a prática e exercícios do mesmo são bem confusos. Teoria bem explicada 
