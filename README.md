@@ -1,5 +1,5 @@
 # BookStudy
-This repository have the objective to select the bests books i have read to learn fast and furious, my favorites too. I'll make reviews on folders about each one. To help the community infoSec and Devs.
+This repository have the objective to select the books what i have read to learn fast and furious. I'll make some reviews, to help someone who want to read(infoSec, Devs).  
 
 ### English  
 - **CleanCode** - Best book to understand how you can clean your code! 
@@ -46,10 +46,11 @@ This repository have the objective to select the bests books i have read to lear
 - **Desvendando os segredos da linguagem corporal** - Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;).  
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.  
   
-### Next/Próximos
+# Next/Próximos
+
 - Containers com Docker  
 - PHP & Laravel  
 - Design Patterns com PHP 7  
-- Extreme Programming
-  
-**Have so many, i'll put here when i have time**
+- Extreme Programming  
+
+**Have so many, i'll put here when i have time. Please make your recommendation, pull request in Next/Próximos**
