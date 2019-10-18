@@ -31,7 +31,7 @@ This repository have the objective to select the books what i have read to learn
 - **Construindo Aplicações Web com PHP e MySQL** - O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.  
 - **Desenvolvimento web com PHP e MySQL - Casa do código** - O livro é bastante atualizado, aborda conceitos sobre OOP.  
 - **Test-Driven Development com PHP - Casa do código** - Introdução ao TDD ótimo, prática meio complicada.
-
+- **PHP & Laravel - Casa do código** - Recomendo para quem quer iniciar com Laravel.  
 **C/C++:**  
 - **Introdução a programação com Linguagem C** - Livro extremamente bom para começar, não aprofunda em ponteiros.  
 - **Curso Básico de C++ - Apostila José Tarcisio Lopes Pereira** - Apostila voltada para quem deseja entender C++ em sua sintâxe, aprofunda em ponteiros.  
@@ -49,8 +49,8 @@ This repository have the objective to select the books what i have read to learn
 # Next/Próximos
 
 - Containers com Docker  
-- PHP & Laravel  
-- Design Patterns com PHP 7  
+- Agile  
 - Extreme Programming  
+- Design Patterns com PHP 7
 
 **Have so many, i'll put here when i have time. Please make your recommendation, pull request in Next/Próximos**
