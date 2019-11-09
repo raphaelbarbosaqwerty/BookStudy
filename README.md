@@ -43,6 +43,10 @@ This repository have the objective to select the books what i have read to learn
 #### Python:  
 - **Aprendendo Python - 2a edicao O'Reilly** - Peguei para entender as mudanças do Python 2.2 para o 3.x incluíndo falhas. 
   
+#### JavaScript:
+- **ECMAScript 6 - Entre de cabeça no futuro do JavaScript** - Compreender melhor sobre JS.  
+  
+  
 #### Relationships: 
 - **Desvendando os segredos da linguagem corporal** - Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;).  
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.  
