@@ -26,6 +26,7 @@ This repository have the objective to select the books what i have read to learn
 - **Learning 3.0** - como profissionais criativos aprendem - Livro voltado para desenvolvimento, novos meios de aprendizado.  
 - **Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis** - SOLID e apenas SOLID.  
 - **Fragmentos de um programador** - Possibilidade de bons insights.  
+- **Agile - Casa do código** - Agile torna-se um estilo de vida após compreendido.
   
 #### PHP:
 - **Construindo Aplicações Web com PHP e MySQL** - O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.  
