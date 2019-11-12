@@ -54,9 +54,8 @@ This repository have the objective to select the books what i have read to learn
   
 # Next/Próximos
 
-- Containers com Docker  
-- Agile  
 - Extreme Programming  
+- Containers com Docker  
 - Design Patterns com PHP 7
 
 **Have so many, i'll put here when i have time. Please make your recommendation, pull request in Next/Próximos**
