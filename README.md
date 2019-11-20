@@ -54,8 +54,7 @@ This repository have the objective to select the books what i have read to learn
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.  
   
 # Next/Próximos
-
-- Extreme Programming  
+- Orientação a Objetos - Aprenda seus conceitos e suas aplicabilidades de forma efetiva
 - Containers com Docker  
 - Design Patterns com PHP 7
 
