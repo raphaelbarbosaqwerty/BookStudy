@@ -55,6 +55,7 @@ This repository have the objective to select the books what i have read to learn
   
 # Next/Próximos
 - Orientação a Objetos - Aprenda seus conceitos e suas aplicabilidades de forma efetiva
+- Controlando versões com Git e GitHub 
 - Containers com Docker  
 - Design Patterns com PHP 7
 
