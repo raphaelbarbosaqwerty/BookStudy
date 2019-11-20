@@ -27,6 +27,7 @@ This repository have the objective to select the books what i have read to learn
 - **Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis** - SOLID e apenas SOLID.  
 - **Fragmentos de um programador** - Possibilidade de bons insights.  
 - **Agile - Casa do código** - Agile torna-se um estilo de vida após compreendido.
+- **Extreme Programming** - Acelerando entregas e entregando valor.
   
 #### PHP:
 - **Construindo Aplicações Web com PHP e MySQL** - O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.  
