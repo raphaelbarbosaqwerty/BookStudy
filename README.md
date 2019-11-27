@@ -27,7 +27,8 @@ This repository have the objective to select the books what i have read to learn
 - **Orientação a Objetos e SOLID para Ninjas Projetando classes flexíveis** - SOLID e apenas SOLID.  
 - **Fragmentos de um programador** - Possibilidade de bons insights.  
 - **Agile - Casa do código** - Agile torna-se um estilo de vida após compreendido.
-- **Extreme Programming** - Acelerando entregas e entregando valor.
+- **Extreme Programming** - Acelerando entregas e entregando valor.  
+- **Orientação a Objetos Aprenda seus conceitos e suas aplicabilidades de forma efetiva** O livro serve para quem quer entender melhor sobre OOP.  
   
 #### PHP:
 - **Construindo Aplicações Web com PHP e MySQL** - O livro é bem desatualizado, gostei pq te força a ir atrás da novidade.  
@@ -54,7 +55,6 @@ This repository have the objective to select the books what i have read to learn
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.  
   
 # Next/Próximos
-- Orientação a Objetos - Aprenda seus conceitos e suas aplicabilidades de forma efetiva
 - Controlando versões com Git e GitHub 
 - Containers com Docker  
 - Design Patterns com PHP 7
