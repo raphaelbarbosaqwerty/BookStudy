@@ -1,21 +1,17 @@
 # BookStudy
 This repository have the objective to select the books what i have read to learn fast and furious. I'll make some reviews, to help someone who want to read(infoSec, Devs).  
 
-## English  
+## English
+### Padawan->Jedi:
 - **CleanCode** - Best book to understand how you can clean your code! 
-
 - **The Kybalion** - If you want to understand how the universe works, start understand you.
   
-## Hacking  
+### Hacking  
 - **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws**  - A real bible about WebApplications.  
-
 - **The basics of Web Hacking** - If you don't understand nothing about, start here. (really basic, but good/cool).  
-
 - **The Basics of Hacking and Penetration Testing** - Basic, but very good  
-
 - **Penetration Testing: A Hands-on Introduction to Hacking**  - Want to start on hacking? my favorite book for this.  
-
-- **PentesterLab** - (09/12/2019 - ??)
+- **PentesterLab** - (09/12/2019 - 10/12/2019)
   
   
 ## Portuguese  
