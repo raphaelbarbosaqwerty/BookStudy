@@ -45,7 +45,9 @@ This repository have the objective to select the books what i have read to learn
 #### JavaScript:
 - **ECMAScript 6 - Entre de cabeça no futuro do JavaScript** - Compreender melhor sobre JS.  
   
-  
+#### Swift:
+- **Swift - Programe para iPhone e iPad** - Livro só serve como referência para algumas coisas. Bem desatualizado.
+    
 #### Relationships: 
 - **Desvendando os segredos da linguagem corporal** - Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;).  
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.  
