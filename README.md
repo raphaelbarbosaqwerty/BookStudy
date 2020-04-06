@@ -16,6 +16,9 @@ This repository have the objective to select the books what i have read to learn
 ### Swift:
 - **Test-Driven iOS Development with Swift 4 - Third Edition** - Good book to understoond the TDD with Swift, kinda tiring.  
   
+### PHP/Laravel:
+- **Laravel Design Patterns and Best Practices** - Very basic, start with MVC, Design Patterns and basic practices with Laravel.  
+  
 ## Portuguese  
 ### Padawan->Jedi:  
 - **Guia do mestre programador - Pensando como pirata, evoluindo como jedi**  - Desenvolvimento pessoal voltado para Devs.  
