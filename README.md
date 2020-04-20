@@ -18,6 +18,10 @@ This repository have the objective to select the books what i have read to learn
   
 ### PHP/Laravel:
 - **Laravel Design Patterns and Best Practices** - Good if you don't understoond nothing about MVC, Design Patterns and Basic good practices with laravel.
+- **Full-Stack Vue.js 2 and Laravel 5** - Basic book to start with Vue and integrate with Laravel.(Zero to Deploy)
+  
+### Vue.js:  
+- **Full-Stack Vue.js 2 and Laravel 5** - Basic book to start with Vue and integrate with Laravel.(Zero to Deploy)
   
 ## Portuguese  
 ### Padawan->Jedi:  
