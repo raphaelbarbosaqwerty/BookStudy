@@ -11,7 +11,8 @@ This repository have the objective to select the books what i have read to learn
 - **The basics of Web Hacking** - If you don't understand nothing about, start here. (really basic, but good/cool).  
 - **The Basics of Hacking and Penetration Testing** - Basic, but very good  
 - **Penetration Testing: A Hands-on Introduction to Hacking**  - Want to start on hacking? my favorite book for this.  
-- **PentesterLab** - (09/12/2019 - 10/12/2019)  
+- **PentesterLab** - (09/12/2019 - 10/12/2019).  
+- **Bug Bounty Hunting Essentials** - Interesting book if you want to start doing Web Bug Bounty.   
   
 ### Swift:
 - **Test-Driven iOS Development with Swift 4 - Third Edition** - Good book to understoond the TDD with Swift, kinda tiring.  
