@@ -63,9 +63,11 @@ This repository have the objective to select the books what i have read to learn
 - **Desvendando os segredos da linguagem corporal** - Ótimo livro para adentrar ao campo, use os exemplos em conjunto ;).  
 - **Engenharia Social: Blucher** - O livro dá uma boa introdução a linguagem corporal e engenharia social.  
   
+#### Docker:
+- **Containers com Docker** - Livro para quem quer compreender melhor sobre docker, livro de entrada.  
+  
 # Next/Próximos
-- Controlando versões com Git e GitHub 
-- Containers com Docker  
+- Controlando versões com Git e GitHub  
 - Design Patterns com PHP 7
 
 **Have so many, i'll put here when i have time. Please make your recommendation, pull request in Next/Próximos**
