@@ -5,7 +5,8 @@ This repository have the objective to select the books what i have read to learn
 ### Padawan->Jedi:
 - **CleanCode** - Best book to understand how you can clean your code! 
 - **The Kybalion** - If you want to understand how the universe works, start understand you.
-  
+- **The Number Devil: A Mathematical Adventure** - Amazing book to open your mind about the numbers  
+
 ### Hacking:  
 - **The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws**  - A real bible about WebApplications.  
 - **The basics of Web Hacking** - If you don't understand nothing about, start here. (really basic, but good/cool).  
