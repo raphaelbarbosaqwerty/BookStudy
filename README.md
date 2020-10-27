@@ -15,6 +15,7 @@ This repository have the objective to select the books what i have read to learn
 - **PentesterLab** - (09/12/2019 - 10/12/2019).  
 - **Bug Bounty Hunting Essentials** - Interesting book if you want to start doing Web Bug Bounty.   
 - **OWASP Web Security Testing Guide** - Definitely, the best book to read and construct a solid methodology  
+- **Bug Bounty Playbook by ghostlulz** - Amazing book, the best one to make a solid recon methodology and be organized.  
   
 ### Swift:
 - **Test-Driven iOS Development with Swift 4 - Third Edition** - Good book to understoond the TDD with Swift, kinda tiring.  
